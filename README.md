@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoctorFudge
 - 👀 I’m interested in Dungeons and Dragons
 - 🌱 I’m currently learning 3D modeling, JSON (not hard but yknow)
-- 💞️ I’m looking to collaborate on homebrew
+- 💞️ I love collecting books.
 - 📫 How to reach me: @DoctorFudge#6969 on Discord.
 
 <!---
